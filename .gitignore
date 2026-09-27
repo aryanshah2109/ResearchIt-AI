@@ -6,3 +6,6 @@
 
 # Cache files
 __pycache__/
+
+# Data files
+data/

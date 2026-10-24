@@ -1,0 +1,12 @@
+limits:
+    max_steps: 50
+    max_retries: 2
+    max_subtask_attempts: 2
+
+rag_enabled: false
+
+logging:
+  level: DEBUG
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  save_logs: true 
+  log_dir: logs

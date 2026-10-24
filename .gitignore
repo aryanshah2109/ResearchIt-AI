@@ -9,3 +9,7 @@ __pycache__/
 
 # Data files
 data/
+
+# Excess files
+temp.py
+test.py

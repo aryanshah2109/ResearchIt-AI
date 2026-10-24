@@ -1,0 +1,5 @@
+laya:
+  router:
+    device: "cuda"
+    preload: false
+    max_loaded: 1
